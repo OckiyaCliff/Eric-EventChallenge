@@ -43,7 +43,7 @@ As per system requirements:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/priority-event-system.git
+   git clone https://github.com/OckiyaCliff/Eric-EventChallengegit
    cd priority-event-system
    ```
 
